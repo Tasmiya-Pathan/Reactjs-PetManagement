@@ -31,9 +31,9 @@ A web-based Pet Management System built using **ReactJS** that allows users to m
 
 ## 🧑‍💻 Tech Stack
 
-- **Frontend**: ReactJS, React Hooks, JSX, CSS Modules or Tailwind (if used)
+- **Frontend**: ReactJS
 - **Routing**: React Router DOM
-- **State Management**: useState, useEffect (or Redux if applicable)
+- **State Management**: useState, useEffect 
 - **Deployment**: Netlify
 
 ---
